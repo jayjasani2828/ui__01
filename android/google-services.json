@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780147488141",
+    "project_id": "farah-77be5",
+    "storage_bucket": "farah-77be5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780147488141:android:ee36c80eface18cfab39c4",
+        "android_client_info": {
+          "package_name": "com.example.ui__01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780147488141-65mcc932vjvktk84jg07gpkqsrujosi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAx7LM8m_R6CCN1aQDvjKC1RnuKTxW8X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780147488141-65mcc932vjvktk84jg07gpkqsrujosi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
